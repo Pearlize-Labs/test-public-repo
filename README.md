@@ -1,2 +1,3 @@
 # test-public-repo
-for testing public repository
+
+Update Readme file After Intergration with Slack
